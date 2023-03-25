@@ -1,4 +1,4 @@
-package com.dpt.demo;
+package com.nk1.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

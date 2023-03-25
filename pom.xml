@@ -8,12 +8,12 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devopsrealtime</groupId>
-	<artifactId>dptweb</artifactId>
+	<groupId>com.naveen-100</groupId>
+	<artifactId>nk1</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
-	<name>dptweb</name>
-	<description>DPT DevOps project for Spring Boot</description>
+	<name>nk1</name>
+	<description>DevOps project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
